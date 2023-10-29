@@ -22,13 +22,13 @@ Here's a glimpse of what the calculator looks like in action:
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/dike12/Calculator
    ```
 
 2. **Navigate to the Directory**:
 
    ```
-   cd your-repo-name
+   cd Calculator
    ```
 
 3. **Run the Application**:
@@ -44,5 +44,3 @@ Here's a glimpse of what the calculator looks like in action:
 Feel free to fork this project and add more features. Pull requests are welcome!
 
 ---
-
-Remember to replace `your-username`, `your-repo-name`, `URL_TO_YOUR_GIF`, and `URL_TO_YOUR_VIDEO` with your actual GitHub username, repository name, and links to your GIF and video when you have them. This template will help you showcase your project effectively.
